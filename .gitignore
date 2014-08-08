@@ -51,3 +51,7 @@ docs/_build/
 
 # PyBuilder
 target/
+
+
+#Ignoring all the ST stuff
+*.sublime-*
