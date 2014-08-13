@@ -150,7 +150,6 @@ def main():
         dest='profile',
         required=True,
         action='store',
-        default='zzlivepush',
         help='Required for add the properprofile from the config file from $HOME/\
             .aws path'
         )
